@@ -2,7 +2,7 @@ package com.demo;
 
 public class App {
     public static String greet() {
-        return "Hello CI Pipeline! with more code";
+        return "Hello CI Pipeline!";
     }
 
     public static void main(String[] args) {
